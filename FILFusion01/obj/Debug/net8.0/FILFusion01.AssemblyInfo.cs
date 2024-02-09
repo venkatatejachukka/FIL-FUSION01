@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FILFusion01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f49f1a54a5b4cc1c1aa12927f87ad8525c7465")]
 [assembly: System.Reflection.AssemblyProductAttribute("FILFusion01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FILFusion01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

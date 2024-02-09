@@ -1,7 +1,27 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<FILFusion01.Models.ModelMain>
+ 
 @{
+    ViewData["Title"] = "index";
 }
+<div style="align-items:center"><h2>Monthly Mik Consuption Tracker DashBoard</h2></div>
 
+<div>
+    <div>
+        <table>
+            
+            <thead>Date</thead>
+            <thead>QTY</thead>
+            <thead>Amount</thead>
+            
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.tblDate</td>
+                    <td>@item.tblqty</td>
+                    <td>@item.tblamount</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
 
