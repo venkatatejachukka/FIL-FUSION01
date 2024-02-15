@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FUSION\\FILFusion01\\FILFusion01.csproj": {}
+    "D:\\FUSION\\FIL-FUSION01\\FILFusion01\\FILFusion01.csproj": {}
   },
   "projects": {
-    "D:\\FUSION\\FILFusion01\\FILFusion01.csproj": {
+    "D:\\FUSION\\FIL-FUSION01\\FILFusion01\\FILFusion01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FUSION\\FILFusion01\\FILFusion01.csproj",
+        "projectUniqueName": "D:\\FUSION\\FIL-FUSION01\\FILFusion01\\FILFusion01.csproj",
         "projectName": "FILFusion01",
-        "projectPath": "D:\\FUSION\\FILFusion01\\FILFusion01.csproj",
+        "projectPath": "D:\\FUSION\\FIL-FUSION01\\FILFusion01\\FILFusion01.csproj",
         "packagesPath": "C:\\Users\\Abylle\\.nuget\\packages\\",
-        "outputPath": "D:\\FUSION\\FILFusion01\\obj\\",
+        "outputPath": "D:\\FUSION\\FIL-FUSION01\\FILFusion01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
